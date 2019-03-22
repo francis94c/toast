@@ -65,7 +65,7 @@ class Toast {
       }
       if (func_num_args() == 2 && is_string(func_get_arg(1)))
         $data["toast_class"] = func_get_arg(1);
-      if (func_num_args() == 3 && is_int(func_get_arg(3)))
+      if (func_num_args() == 3 && is_int(func_get_arg(2)))
         $data["timeout"] = func_get_arg(2);
     }
     $data["count"] = $this->toastCount;
