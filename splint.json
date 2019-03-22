@@ -1,0 +1,16 @@
+{
+  "name": "francis94c/toast",
+  "type": "library",
+  "description": "A library for displaying Toast messages on your website.",
+  "tags": ["toast", "ui"],
+  "page": "https://github.com/francis94c/toast",
+  "authors": [
+    {
+      "name": "Francis Ilechukwu",
+      "email": "francis94c@gmail.com",
+      "page": "about.me/francisilechukwu",
+      "role": "Developer"
+    }
+  ],
+  "php": ">=5.3.0"
+}
